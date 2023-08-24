@@ -23,12 +23,19 @@ h1{
     margin: 0;
 }
 .det{
-    margin: 30px;
+    margin: 20px;
     background-color: azure;
     border: black solid 2px;
     border-radius: 10px;
     font-family: poppins;
-    text-align: justify;
+    text-align: center;
+
+}
+.tx{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 30px;
+    padding: auto;
 }
 .logos{
     height: 30px;
